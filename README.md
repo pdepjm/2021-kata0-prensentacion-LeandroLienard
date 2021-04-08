@@ -3,7 +3,7 @@
 ## Estudiante: Leandro Lienard
 
 
-## Hola, soy Lean!
+## Me gusta el futbol y entrenar, soy hincha de racing. También me gusta aprender y programación es todo un desafío para mi! 
 
 ![mi foto](imagen2.jpg)
 
